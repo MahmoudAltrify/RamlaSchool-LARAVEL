@@ -142,7 +142,7 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="social-links">
-                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="https://www.facebook.com/jo.codex" target="_blank"><i class="fa fa-facebook"></i></a>
                             </div>
                         </div>
                     </div>
